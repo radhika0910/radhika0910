@@ -66,8 +66,8 @@
 
 🤝 **Let's Connect!**
 - 📫 Email: radhika.bhoyar09@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/radhika-b)
-- 🌐 [Portfolio](https://your-portfolio-link.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/radhika-bhoyar-a65220201/)
+- 🌐 [Portfolio](https://radhika-s-site.vercel.app/)
 
 ---
 
