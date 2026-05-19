@@ -1,85 +1,131 @@
-<h1 align="center">✨ Hey, I'm Radhika Bhoyar ✨</h1>
+<h1 align="center">
+  hey, i'm radhika 👋
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=E91E63&center=true&vCenter=true&width=500&lines=Full+time+AI%2FML+nerd;Part+time+DevOps+troublemaker;Sarcastic+by+default;Making+tech+look+cool+since+2003+💅">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F472B6&center=true&vCenter=true&width=600&lines=software+engineer+who+likes+scalable+systems;building+backend+%2B+data-heavy+applications;cloud+%2B+distributed+systems+enthusiast;professional+debugger+since+2021" />
 </p>
 
 <p align="center">
-  <a href="mailto:radhika.bhoyar09@gmail.com"><img src="https://img.shields.io/badge/Email-ff5f5f?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/radhika-b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/radhika0910"><img src="https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white"/></a>
-  <a href="https://radhika-s-site.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%23fca5a5?style=flat&logo=vercel&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=radhika0910&label=Profile%20vibes&color=ff69b4&style=flat" alt="radhika0910" />
+  <a href="mailto:radhika.bhoyar09@gmail.com">
+    <img src="https://img.shields.io/badge/email-ea4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://linkedin.com/in/radhika-bhoyar">
+    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/radhika0910">
+    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://radhika-s-site.vercel.app/">
+    <img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> about me
+
+```yaml
+name: Radhika Bhoyar
+role: Software Engineer @ Fendahl Technologies
+
+currently_into:
+  - backend engineering
+  - distributed systems
+  - cloud & devops
+  - data engineering
+  - ai infra
+
+current_status:
+  - building scalable systems
+  - debugging things i broke myself
+  - trying not to overengineer side projects
+
+fun_fact:
+  - organized a 250+ team hackathon and survived
+````
+
+* 🎓 B.Tech in AI & Data Science + Honours in AWS & DevOps
+* ⚡ reduced production latency by ~60%
+* 📊 built workflows handling 100k+ row datasets
+* ☕ powered primarily by chai and deadlines
+
+---
+
+## 🚀 things i've built
+
+### 🚖 Ayantra
+
+distributed ride-sharing platform with:
+
+* microservices architecture
+* kafka event streaming
+* postgres optimization
+* real-time ride workflows
+
+---
+
+### 🌊 JalRakshak
+
+real-time water monitoring system featuring:
+
+* ETL pipelines
+* anomaly detection
+* analytics dashboards
+* sensor data processing
+
+---
+
+### ✋ Aap Ki Awaz
+
+ASL recognition system using CNNs for accessibility & communication
+
+---
+
+## 💻 tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,nodejs,react,nextjs,postgres,mongodb,aws,docker,git,firebase,kafka&theme=dark"/>
 </p>
 
 ---
 
-### 🪩 about me
-> Basically an AI/ML DevOps hybrid who drinks too much chai and breaks things just to fix them again.
+## 🏆 side quests completed
 
-- 🎓 B.Tech in AI & Data Science + Honors in AWS + DevOps (YCCE’25)  
-- 🏆 SIH’23 winner, CODE BY THE BEACH champ, and serial hackathon survivor  
-- 🧠 Obsessed with building smart, scalable, slightly overengineered stuff  
-- ☁️ Currently vibing with Cloud, DevOps, and Generative AI  
-- 🐍 Favorite language: Python (because indentation > curly braces)  
-
----
-
-### 💻 tech moodboard
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,react,nextjs,nodejs,flask,html,css,aws,firebase,git,flutter&theme=dark" />
-</p>
+* 🥇 Winner — Smart India Hackathon 2023
+* 🥇 Winner — Code by the Beach, BITS Pilani
+* 🚀 Top 50 nationwide — e-Yantra Innovation Challenge, IIT Bombay
+* 🥈 2nd Runner-up — MarketWise Challenge, IIIT Nagpur
+* 👩‍💻 President — Codeware Coding Club, YCCE
 
 ---
 
-<details>
-  <summary><b>🚀 projects i actually finished (click me)</b></summary>
+## 📈 github stats because apparently these matter
 
-- **JalRakshak** 🌊 — Real-time water management (Flask + Flutter + Next.js)  
-- **Aap Ki Awaz** ✋ — ASL recognition using CNNs for accessibility  
-- **MetaACE** 🧱 — AI-assisted material estimation for architects  
-- **E-Tantrashala** 💻 — Student community portal (ReactJS)
-</details>
-
-<details>
-  <summary><b>🏅 flex zone</b></summary>
-
-- Winner — SIH’2023 National Hackathon  
-- Winner — CODE BY THE BEACH, BITS Pilani  
-- PwC Cloud & Digital Launchpad Program (2024)  
-- Top 50 — eYantra EYIC, IIT Bombay  
-- Runner-up — Marketwise IIIT Nagpur  
-</details>
-
----
-
-### 📊 github vibes
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=radhika0910&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=radhika0910&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=radhika0910&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F472B6&icon_color=F472B6" height="170"/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=radhika0910&theme=tokyonight&hide_border=true&background=0D1117&ring=F472B6&fire=F472B6&currStreakLabel=F472B6" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=radhika0910&theme=react-dark&area=true" width="95%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=radhika0910&theme=tokyonight&no-frame=true&row=1&margin-w=10"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=radhika0910&theme=react-dark&hide_border=true&bg_color=0D1117&color=F472B6&line=F472B6&point=FFFFFF" width="95%"/>
 </p>
 
 ---
 
-### 🦄 connect with me
+## 🌐 let's connect
+
 <p align="center">
-  <a href="mailto:radhika.bhoyar09@gmail.com"><b>Email</b></a> • 
-  <a href="https://www.linkedin.com/in/radhika-bhoyar-a65220201/"><b>LinkedIn</b></a> • 
-  <a href="https://radhika-s-site.vercel.app/"><b>Portfolio</b></a>  
+  <a href="mailto:radhika.bhoyar09@gmail.com">email</a> •
+  <a href="https://linkedin.com/in/radhika-bhoyar">linkedin</a> •
+  <a href="https://radhika-s-site.vercel.app/">portfolio</a>
 </p>
 
 <p align="center">
-  <i>“Sometimes I write code that even future-me can't understand.”</i> 🤷‍♀️
+  <i>"works on my machine" is not a deployment strategy.</i>
 </p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+```
