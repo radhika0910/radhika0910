@@ -1,123 +1,129 @@
 <h1 align="center">
-  hey, i'm radhika 👋
+  radhika bhoyar
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F472B6&center=true&vCenter=true&width=600&lines=software+engineer+who+likes+scalable+systems;building+backend+%2B+data-heavy+applications;cloud+%2B+distributed+systems+enthusiast;professional+debugger+since+2021" />
+  backend engineer • distributed systems • cloud • data-heavy apps
 </p>
 
 <p align="center">
-  <a href="mailto:radhika.bhoyar09@gmail.com">
-    <img src="https://img.shields.io/badge/email-ea4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://linkedin.com/in/radhika-bhoyar">
-    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/radhika0910">
-    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-  <a href="https://radhika-s-site.vercel.app/">
-    <img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&pause=1000&color=F472B6&center=true&vCenter=true&width=700&lines=building+systems+that+don't+fall+apart;turning+coffee+into+backend+infrastructure;cloud+%2B+scalable+architectures;shipping+side+projects+at+2am" />
 </p>
-
-
-
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> about me
-
-```yaml
-name: Radhika Bhoyar
-role: Software Engineer @ Fendahl Technologies
-
-currently_into:
-  - backend engineering
-  - distributed systems
-  - cloud & devops
-  - data engineering
-  - ai infra
-
-current_status:
-  - building scalable systems
-  - debugging things i broke myself
-  - trying not to overengineer side projects
-
-fun_fact:
-  - organized a 250+ team hackathon and survived
-````
-
-* 🎓 B.Tech in AI & Data Science + Honours in AWS & DevOps
-* ⚡ reduced production latency by ~60%
-* 📊 built workflows handling 100k+ row datasets
-* ☕ powered primarily by chai and deadlines
 
 ---
 
-## 🚀 things i've built
+<p align="center">
+  <a href="mailto:radhika.bhoyar09@gmail.com">
+    <img src="https://img.shields.io/badge/email-ea4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://linkedin.com/in/radhika-bhoyar">
+    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/radhika0910">
+    <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://radhika-s-site.vercel.app/">
+    <img src="https://img.shields.io/badge/portfolio-111111?style=flat-square&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🧠 about me
+
+```yaml
+name: Radhika Bhoyar
+role: Software Engineer @ Fendahl
+
+focus:
+  - backend engineering
+  - distributed systems
+  - cloud & devops
+  - scalable architectures
+  - data engineering
+
+currently:
+  - building production-grade systems
+  - optimizing slow queries
+  - pretending side projects won't become startups
+
+fun_fact:
+  - survived organizing a 250+ participant hackathon
+
+```
+
+## 🚀 a few things i've done
+
+* ⚡ improved production latency by ~60%
+* 📊 worked with 100k+ row data workflows
+* 🏗️ built full-stack and distributed systems projects
+* 🧠 love solving infra/backend problems
+* ☕ chai-driven development
+
+---
+
+## 🚖 featured projects
 
 ### 🚖 Ayantra
 
-distributed ride-sharing platform with:
+Distributed ride-sharing platform built with microservices, Kafka event streaming, optimized PostgreSQL workflows, and real-time ride orchestration.
 
-* microservices architecture
-* kafka event streaming
-* postgres optimization
-* real-time ride workflows
+**stack:** `Node.js` `Kafka` `PostgreSQL` `Docker`
 
 ---
 
 ### 🌊 JalRakshak
 
-real-time water monitoring system featuring:
+Smart water monitoring platform handling sensor ingestion, ETL pipelines, anomaly detection, and analytics dashboards for real-time monitoring.
 
-* ETL pipelines
-* anomaly detection
-* analytics dashboards
-* sensor data processing
+**stack:** `Python` `ETL` `Analytics` `IoT`
 
 ---
 
 ### ✋ Aap Ki Awaz
 
-ASL recognition system using CNNs for accessibility & communication
+Accessibility-focused ASL recognition system using CNNs to convert gestures into readable text and speech.
+
+**stack:** `TensorFlow` `CNN` `Streamlit`
 
 ---
 
-## 💻 tech stack
+## ⚒️ tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,nodejs,react,nextjs,postgres,mongodb,aws,docker,git,firebase,kafka&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,react,nextjs,postgres,mongodb,aws,docker,kafka,firebase,git&theme=dark"/>
 </p>
 
 ---
 
-## 🏆 side quests completed
+## 🏆 achievements
 
-* 🥇 Winner — Smart India Hackathon 2023
-* 🥇 Winner — Code by the Beach, BITS Pilani
-* 🚀 Top 50 nationwide — e-Yantra Innovation Challenge, IIT Bombay
-* 🥈 2nd Runner-up — MarketWise Challenge, IIIT Nagpur
-* 👩‍💻 President — Codeware Coding Club, YCCE
-
----
-
-## 📈 github stats because apparently these matter
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=radhika0910&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F472B6&icon_color=F472B6" height="170"/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=radhika0910&theme=tokyonight&hide_border=true&background=0D1117&ring=F472B6&fire=F472B6&currStreakLabel=F472B6" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=radhika0910&theme=react-dark&hide_border=true&bg_color=0D1117&color=F472B6&line=F472B6&point=FFFFFF" width="95%"/>
-</p>
+* 🥇 Smart India Hackathon 2023 Winner
+* 🥇 Code by the Beach — BITS Pilani
+* 🚀 Top 50 — e-Yantra Innovation Challenge, IIT Bombay
+* 🥈 Runner-up — MarketWise Challenge, IIIT Nagpur
+* 👩‍💻 President — Codeware Club, YCCE
 
 ---
 
-## 🌐 let's connect
+## 📈 github stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=radhika0910&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170"/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=radhika0910&theme=tokyonight&hide_border=true&background=0D1117" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=radhika0910&theme=react-dark&hide_border=true&bg_color=0D1117" width="95%"/>
+</p>
+
+---
+
+## 🌐 connect with me
 
 <p align="center">
   <a href="mailto:radhika.bhoyar09@gmail.com">email</a> •
@@ -126,6 +132,16 @@ ASL recognition system using CNNs for accessibility & communication
 </p>
 
 <p align="center">
-  <i>"works on my machine" is not a deployment strategy.</i>
+  <i>building cool things one deployment failure at a time.</i>
 </p>
-```
+
+---
+
+## 🔮 eventually adding
+
+* 🐍 contribution snake animation
+* ⏱️ WakaTime coding stats
+* 🏗️ architecture diagrams & GIF demos
+* 🚧 currently building section
+* ✍️ engineering blogs/devlogs
+* 📌 stronger pinned repositories
