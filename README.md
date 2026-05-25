@@ -136,12 +136,3 @@ Accessibility-focused ASL recognition system using CNNs to convert gestures into
 </p>
 
 ---
-
-## 🔮 eventually adding
-
-* 🐍 contribution snake animation
-* ⏱️ WakaTime coding stats
-* 🏗️ architecture diagrams & GIF demos
-* 🚧 currently building section
-* ✍️ engineering blogs/devlogs
-* 📌 stronger pinned repositories
