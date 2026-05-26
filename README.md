@@ -36,7 +36,7 @@
 
 ```yaml
 name: Radhika Bhoyar
-role: Software Engineer @ Fendahl
+role: Software Engineer @ Fendahl Technologies
 
 focus:
   - backend engineering
