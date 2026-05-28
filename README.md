@@ -65,32 +65,6 @@ fun_fact:
 
 ---
 
-## 🚖 featured projects
-
-### 🚖 Ayantra
-
-Distributed ride-sharing platform built with microservices, Kafka event streaming, optimized PostgreSQL workflows, and real-time ride orchestration.
-
-**stack:** `Node.js` `Kafka` `PostgreSQL` `Docker`
-
----
-
-### 🌊 JalRakshak
-
-Smart water monitoring platform handling sensor ingestion, ETL pipelines, anomaly detection, and analytics dashboards for real-time monitoring.
-
-**stack:** `Python` `ETL` `Analytics` `IoT`
-
----
-
-### ✋ Aap Ki Awaz
-
-Accessibility-focused ASL recognition system using CNNs to convert gestures into readable text and speech.
-
-**stack:** `TensorFlow` `CNN` `Streamlit`
-
----
-
 ## ⚒️ tech stack
 
 <p align="center">
